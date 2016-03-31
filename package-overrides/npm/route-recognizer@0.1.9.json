@@ -1,0 +1,4 @@
+{
+  "main": "dist/es6/route-recognizer.js",
+  "format": "esm"
+}
